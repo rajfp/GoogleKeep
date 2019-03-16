@@ -1,19 +1,58 @@
 {
-  "posts": [
+  "users": [
     {
-      "id": 1,
-      "title": "json-server",
-      "author": "typicode"
-    }
-  ],
-  "comments": [
+      "id": "neelanjan.sen@gmail.com",
+      "notes": [
+        {
+          "id": 1548669.723835503,
+          "noteTitle": "take bath",
+          "noteDescription": "Yeah, I'm pathetic, i've to remind myself to take bath everyday"
+        },
+        {
+          "id": 2065717.6985248907,
+          "noteTitle": "YAAAAY!!!",
+          "noteDescription": "I've finally made this app multi user"
+        }
+      ]
+    },
     {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
+      "notes": [
+        {
+          "id": 2308056.8346513747,
+          "value": "Welcome My friends Welcome"
+        },
+        {
+          "id": 1436006.1338530662,
+          "value": "This is my first react app"
+        }
+      ],
+      "pass": "qwerty",
+      "id": "Rajat"
+    },
+    {
+      "notes": [
+        {
+          "id": 53217.15211444874,
+          "value": "Hi all"
+        }
+      ],
+      "pass": "shibbu",
+      "id": "Shivendra"
+    },
+    {
+      "id": "golu",
+      "notes": [],
+      "pass": "golu"
+    },
+    {
+      "id": "sameer",
+      "notes": [],
+      "pass": "sameer"
+    },
+    {
+      "id": "cool@gmail.com",
+      "notes": [],
+      "pass": "cool"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }

@@ -6,6 +6,8 @@ Dialogs
 Validation
 Signup
 Signin
+Adding Notes
+Deleting Notes
 Logout 
 Password save functionality
 Use of JSON server
